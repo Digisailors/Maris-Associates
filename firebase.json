@@ -1,6 +1,8 @@
 {
   "hosting": {
+    "site": "marisfibc",
     "public": "public",
+    "cleanUrls": true,
     "ignore": [
       "firebase.json",
       "**/.*",
